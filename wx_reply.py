@@ -23,6 +23,8 @@ def keyword_reply(msg):
     """关键字回复"""
     if '你叫啥' in msg.text or '你叫啥名字' in msg.text:
         return msg.reply('沃德天·维森莫·拉莫帅·帅德布耀')
+    if '吴老二' in msg.text:
+        return msg.reply('是个大帅哥')
     pass
 
 
