@@ -1,7 +1,7 @@
 """项目配置"""
 
 # 图灵机器人，99元一月付费版，尽情享用！
-tuling_api_key = '88f17f853d974387af64955bed9466f4'
+tuling_api_key = '6709b4b71a7949b1b2b57c06d875b56b'
 
 # 自动回复
 is_friend_auto_reply = True  # 好友自动回复
